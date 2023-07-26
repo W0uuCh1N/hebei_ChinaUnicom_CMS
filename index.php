@@ -1,8 +1,8 @@
 <?php
 /**
- * Project: Catfish.
- * Author: A.J
- * Date: 2016/9/29
+ * Project: hebei_ChinaUnicom.
+ * Author: zhangsan
+ * Date: 2023/1/12
  */
 // 定义应用目录
 define('APP_PATH', __DIR__ . '/application/');
