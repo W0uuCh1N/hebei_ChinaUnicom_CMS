@@ -1,0 +1,10 @@
+{
+  "version": "1.1.0",
+  "description": [
+    "中国联通信息展示和自动签到"
+  ],
+  "setting": {
+    "icon-glyph": "phone-volume",
+    "icon-color": "red"
+  }
+}
